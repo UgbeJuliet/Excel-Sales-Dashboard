@@ -22,4 +22,5 @@ This project analyzes sales data using Microsoft Excel to identify sales trends 
 ## Files Included
 
 - Excel_Sales_Dashboard.xlsx
-- Dashboard.png
+- Excel Dataset.png
+- Excel Pivot Tables 
