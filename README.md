@@ -15,7 +15,7 @@ This project analyzes sales data using Microsoft Excel to identify sales trends 
 
 ## Key Insights
 
-- South generated the highest total sales.
+- North generated the highest total sales.
 - Sarah was the top-performing salesperson.
 - Electronics generated the highest revenue.
 
